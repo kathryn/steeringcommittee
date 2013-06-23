@@ -1,0 +1,12 @@
+#happy_path .step {
+  min-height: 200px;
+  font-size: 24px;
+  color: white; }
+#happy_path .s1 {
+  background-color: #16a085; }
+#happy_path .s2 {
+  background-color: #27ae60; }
+#happy_path .s3 {
+  background-color: #d35400; }
+#happy_path .s4 {
+  background-color: #c0392b; }
